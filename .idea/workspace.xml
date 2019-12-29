@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="690661ce-fe02-4cca-bc1a-06067a68b8d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VetmVEgrJHRBgkKwf0EGXSf5gL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../marvel_project/bin" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="690661ce-fe02-4cca-bc1a-06067a68b8d8" name="Default Changelist" comment="" />
+      <created>1577625547346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577625547346</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1202" y="300" width="424" height="478" key="FileChooserDialogImpl" timestamp="1577633922160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1202" y="300" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577633922160" />
+    <state x="764" y="152" width="1001" height="724" key="SettingsEditor" timestamp="1577633931113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="152" width="1001" height="724" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577633931113" />
+    <state x="1099" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1577633739833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1099" y="357" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577633739833" />
+  </component>
+</project>
